@@ -1,11 +1,11 @@
-nome,dt_nasc,nacionalidade,gênero
-Ozzy Osbourne,03/12/1948,britânica,masculino
-João Gordo,13/03/1964,brasilera,masculino
-Glen Danzig,23/06/1955,norte americana,masculino
-Bruce Dickson,07/08/1958,britânica,masculino
-Courtney Love,09/06/1964,norte americana,feminino
-Andreas Kisser,24/08/1968,brasileira,masculino
-Donita Sparks,08/04/1963,norte americana,feminino
-Joan Jett,22/09/1958,norte americana,masculino
-Fernanda Lira,09/09/1989,brasileira,feminino
-Lemmy Kilmister,24/12/1945,norte americana,masculino
+nome,dt_nasc,nacionalidade,gênero,altura
+Ozzy Osbourne,03/12/1948,britânica,masculino,1.78m
+João Gordo,13/03/1964,brasilera,masculino,1.87m
+Glen Danzig,23/06/1955,norte americana,masculino,1.6m
+Bruce Dickson,07/08/1958,britânica,masculino,1.68
+Courtney Love,09/06/1964,norte americana,feminino,1.75m
+Andreas Kisser,24/08/1968,brasileira,masculino,"1,85m"
+Donita Sparks,08/04/1963,norte americana,feminino,"1,70m"
+Joan Jett,22/09/1958,norte americana,masculino,"1,70m"
+Fernanda Lira,09/09/1989,brasileira,feminino,"1,67m"
+Lemmy Kilmister,24/12/1945,norte americana,masculino,"1,77m"

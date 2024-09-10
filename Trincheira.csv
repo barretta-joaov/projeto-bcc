@@ -1,10 +1,11 @@
-nome,dt_nasc,nacionalidade,gênero
-Jimmy London,05/06/1975,brasileira,masculino
-Paulão Carvalho,15/05/1947,portuguesa,masculino
-Wander Wildner,20/09/1959,brasileira,masculino
-Sérgio Britto,18/09/1959,brasileira,masculino
-Tenzin Chöpel,12/06/1957,brasileira,masculino
-Branco Mello,16/03/1962,brasileira,masculino
-Gildo Constantino,31/12/1964,brasileira,masculino
-José Máo,26/03/1963,brasileira,masculino
-Redson Pozzi,15/07/1962,brasileira,masculino
+nome,dt_nasc,nacionalidade,gênero,altura
+Jimmy London,05/06/1975,brasileira,masculino,1.90m
+Paulão Carvalho,15/05/1947,portuguesa,masculino,1.85m
+Wander Wildner,20/09/1959,brasileira,masculino,1.78m
+Sérgio Britto,18/09/1959,brasileira,masculino,"1,76m"
+Tenzin Chöpel,12/06/1957,brasileira,masculino,1.73m
+Branco Mello,16/03/1962,brasileira,masculino,"1,80m"
+Gildo Constantino,31/12/1964,brasileira,masculino,1.75m
+José Máo,26/03/1963,brasileira,masculino,1.70m
+Redson Pozzi,15/07/1962,brasileira,masculino,1.74m
+Dave Grohl,14/01/1969,norte americana,masculino,"1,83m"

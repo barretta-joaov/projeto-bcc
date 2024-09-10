@@ -1,11 +1,11 @@
-nome,dt_nasc,nacionalidade,gênero
-David Byrne,14/05/1952,escocesa,masculino
-John Lydon,31/01/1956,britânica,masculino
-Bernard Sumner,04/01/1956,britânica,masculino
-Ian Curtis,15/07/1956,britânica,masculino
-Siouxsie Sioux,27/05/1957,britânica,feminino
-Robert Smith,21/04/1959,britânica,masculino
-Dave Gahan,09/05/1962,britânica,masculino
-Morrissey,22/05/1959,britânica,masculino
-Polly Jean Harvey,09/10/1969,britânica,feminino
-Thom Yorke,07/10/1968,britânica,masculino
+nome,dt_nasc,nacionalidade,gênero,altura
+David Byrne,14/05/1952,escocesa,masculino,1.83m
+John Lydon,31/01/1956,britânica,masculino,1.72m
+Bernard Sumner,04/01/1956,britânica,masculino,1.73m
+Ian Curtis,15/07/1956,britânica,masculino,1.85m
+Siouxsie Sioux,27/05/1957,britânica,feminino,1.73m
+Robert Smith,21/04/1959,britânica,masculino,1.78m
+Dave Gahan,09/05/1962,britânica,masculino,1.78m
+Morrissey,22/05/1959,britânica,masculino,1.8m
+Polly Jean Harvey,09/10/1969,britânica,feminino,1.62m
+Thom Yorke,07/10/1968,britânica,masculino,1.66m
